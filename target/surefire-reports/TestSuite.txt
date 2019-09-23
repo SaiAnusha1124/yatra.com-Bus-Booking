@@ -1,0 +1,17 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 3, Errors: 0, Skipped: 1, Time elapsed: 51.336 s <<< FAILURE! - in TestSuite
+selectingBus(com.yatra.testscripts.SelectBus)  Time elapsed: 0.001 s  <<< FAILURE!
+java.lang.NullPointerException
+	at com.yatra.testscripts.SelectBus.selectingBus(SelectBus.java:20)
+
+bookingBus(com.yatra.testscripts.BookaBus)  Time elapsed: 0 s  <<< FAILURE!
+java.lang.NullPointerException
+	at com.yatra.testscripts.BookaBus.bookingBus(BookaBus.java:20)
+
+fillingTravellerDetails(com.yatra.testscripts.FillPassengerDetails)  Time elapsed: 1.228 s  <<< FAILURE!
+org.testng.TestNGException: 
+
+Method public void com.yatra.testscripts.FillPassengerDetails.fillingTravellerDetails(java.lang.String,java.lang.String,java.lang.String) throws java.lang.Exception requires a @DataProvider named : testdata1 in class com.yatra.utils.TestDataProviders
+

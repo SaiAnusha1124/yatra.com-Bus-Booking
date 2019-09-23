@@ -1,0 +1,15 @@
+# Created at 2019-09-12T14:55:24.194
+WARNING: An illegal reflective access operation has occurred
+
+# Created at 2019-09-12T14:55:24.198
+WARNING: Illegal reflective access by org.apache.poi.util.DocumentHelper (file:/C:/Users/saianusha.podichervu/.m2/repository/org/apache/poi/poi-ooxml/3.11/poi-ooxml-3.11.jar) to constructor com.sun.org.apache.xerces.internal.util.SecurityManager()
+
+# Created at 2019-09-12T14:55:24.198
+WARNING: Please consider reporting this to the maintainers of org.apache.poi.util.DocumentHelper
+
+# Created at 2019-09-12T14:55:24.198
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+
+# Created at 2019-09-12T14:55:24.202
+WARNING: All illegal access operations will be denied in a future release
+

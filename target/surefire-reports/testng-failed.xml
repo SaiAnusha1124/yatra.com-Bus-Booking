@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT" verbose="0">
+  <test thread-count="5" name="Test(failed)" verbose="0">
+    <classes>
+      <class name="com.yatra.testscripts.SignintoBookBus">
+        <methods>
+          <include name="closeBrowser"/>
+          <include name="initializeBrowser"/>
+          <include name="signingToBookTicket"/>
+        </methods>
+      </class> <!-- com.yatra.testscripts.SignintoBookBus -->
+      <class name="com.yatra.testscripts.BookaBus">
+        <methods>
+          <include name="closeBrowser"/>
+          <include name="initializeBrowser"/>
+          <include name="bookingBus"/>
+        </methods>
+      </class> <!-- com.yatra.testscripts.BookaBus -->
+      <class name="com.yatra.testscripts.FillPassengerDetails">
+        <methods>
+          <include name="fillingTravellerDetails"/>
+          <include name="closeBrowser"/>
+          <include name="initializeBrowser"/>
+        </methods>
+      </class> <!-- com.yatra.testscripts.FillPassengerDetails -->
+      <class name="com.yatra.testscripts.SelectBus">
+        <methods>
+          <include name="selectingBus"/>
+          <include name="closeBrowser"/>
+          <include name="initializeBrowser"/>
+        </methods>
+      </class> <!-- com.yatra.testscripts.SelectBus -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
