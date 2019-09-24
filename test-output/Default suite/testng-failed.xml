@@ -5,7 +5,7 @@
     <classes>
       <class name="com.yatra.testscripts.BusBooking">
         <methods>
-          <include name="fillingTravellerDetails"/>
+          <include name="signing" invocation-numbers="0"/>
           <include name="closeBrowser"/>
           <include name="initializeBrowser"/>
         </methods>

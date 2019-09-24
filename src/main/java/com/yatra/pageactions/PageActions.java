@@ -1,7 +1,6 @@
 package com.yatra.pageactions;
 
 import org.openqa.selenium.By;
-import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
@@ -22,7 +21,6 @@ public class PageActions {
 	}
 
 	public static void sendKeys(WebDriver driver, String xpath, String value) throws Exception {
-		Thread.sleep(5000);
 		driver.findElement(By.xpath(xpath)).sendKeys(value);
 	}
 
@@ -32,14 +30,7 @@ public class PageActions {
 		action.sendKeys(Keys.ENTER).build().perform();
 	}
 
-	public static void scrollDown(WebDriver driver) {
-		JavascriptExecutor js = ((JavascriptExecutor) driver);
-		js.executeScript("window.scrollTo(100, document.body.scrollHeight)");
-	}
-
-	public static void sendKeys(Keys enter) 
-	{
-		
+	public static void sendKeys(Keys enter) {
 	}
 
 	public static void explicitWait(WebDriver driver, String xpath) {

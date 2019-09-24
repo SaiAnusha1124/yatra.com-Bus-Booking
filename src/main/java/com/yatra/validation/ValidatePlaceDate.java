@@ -9,28 +9,21 @@ import com.yatra.utils.ReadLocatorsFile;
 public class ValidatePlaceDate extends TestBase {
 	static String xpath;
 	static Properties properties;
-	static String actualfromplace;
-	static String actualtoplace;
-	static String actualdateofjourney;
-	static String expectedfromplace = "Hyderabad";
-	static String expectedtoplace = "Bangalore";
-	static String expecteddateofjourney = "26/09/2019";
+	static Properties properties1;
+	static String actualfromplace, actualtoplace, actualdateofjourney;
 
 	public static void validatingFromPlace() throws Exception {
 		properties = ReadLocatorsFile.loadProperty(ConstantsFilePaths.LOCATORS_FILE);
-		actualfromplace = driver.findElement(By.xpath(properties.getProperty("validateFromPlace")))
-				.getAttribute("value");
-		ValidateResult.validateData(actualfromplace, expectedfromplace, "validatingFromPlace");
+		properties1 = ReadLocatorsFile.loadProperty(ConstantsFilePaths.TESTDATA1_FILE);
+		actualfromplace = driver.findElement(By.xpath(properties.getProperty("validateFromPlace"))).getAttribute("value");
+		ValidateResult.validateData(actualfromplace, properties1.getProperty("expectedfromplace"), "validatingFromPlace");
 	}
-
 	public static void validatingToPlace() {
 		actualtoplace = driver.findElement(By.xpath(properties.getProperty("validateToPlace"))).getAttribute("value");
-		ValidateResult.validateData(actualtoplace, expectedtoplace, "validatingToPlace");
+		ValidateResult.validateData(actualtoplace, properties1.getProperty("expectedtoplace"), "validatingToPlace");
 	}
-
 	public static void validatingDateofJourney() {
-		actualdateofjourney = driver.findElement(By.xpath(properties.getProperty("validateDateofJourney")))
-				.getAttribute("value");
-		ValidateResult.validateData(actualdateofjourney, expecteddateofjourney, "validatingdateofjourney");
+		actualdateofjourney = driver.findElement(By.xpath(properties.getProperty("validateDateofJourney"))).getAttribute("value");
+		ValidateResult.validateData(actualdateofjourney, properties1.getProperty("expecteddateofjourney"), "validatingdateofjourney");
 	}
 }

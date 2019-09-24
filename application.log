@@ -2519,3 +2519,229 @@
 2019-09-23 21:24:02,371  INFO [main] LogReports:19 - Passed : validateBoardingPoint :  Actual data : Y Junction Expected data : Y Junction
 2019-09-23 21:24:02,514  INFO [main] LogReports:19 - Passed : validateBordingPointAddress :  Actual data : INFRONT OF SAGAR HOTEL, PH No : 7353019999 , 04066746542 , 04066336542, Expected data : INFRONT OF SAGAR HOTEL, PH No : 7353019999 , 04066746542 , 04066336542,
 2019-09-23 21:24:14,001  INFO [main] LogReports:19 - Entered email and phoneno for corfirmation
+2019-09-23 21:54:04,559  INFO [main] LogReports:19 - Clicked fromplace
+2019-09-23 21:54:16,118  INFO [main] LogReports:19 - Clicked toplace
+2019-09-23 21:54:16,864  INFO [main] LogReports:19 - clicked date
+2019-09-23 21:54:20,931  INFO [main] LogReports:19 - Passed : validatingFromPlace :  Actual data : Hyderabad Expected data : Hyderabad
+2019-09-23 21:54:21,036  INFO [main] LogReports:19 - Passed : validatingToPlace :  Actual data : Bangalore Expected data : Bangalore
+2019-09-23 21:54:21,164  INFO [main] LogReports:19 - Passed : validatingdateofjourney :  Actual data : 26/09/2019 Expected data : 26/09/2019
+2019-09-23 21:54:40,345  INFO [main] LogReports:19 - Selected bus as per requirements
+2019-09-23 21:54:44,478  INFO [main] LogReports:19 - Completed seats booking
+2019-09-23 21:54:44,687  INFO [main] LogReports:19 - Passed : validatingBusName :  Actual data : Ullal Holidays Expected data : Ullal Holidays
+2019-09-23 21:54:44,852  INFO [main] LogReports:19 - Passed : validatingBusType :  Actual data : AC Sleeper (2 + 1) Expected data : AC Sleeper (2 + 1)
+2019-09-23 21:54:45,966  INFO [main] LogReports:19 - entered bording point
+2019-09-23 21:54:46,116  INFO [main] LogReports:19 - Passed : validatingSeatNumbers :  Actual data : L18, L17, L16 Expected data : L18, L17, L16
+2019-09-23 21:54:46,236  INFO [main] LogReports:19 - Passed : validatingTotalFare :  Actual data : 2,700 Expected data : 2,700
+2019-09-23 21:54:54,264  INFO [main] LogReports:19 - Passed : validatingStartingTime :  Actual data : 11:15 PM Expected data : 11:15 PM
+2019-09-23 21:54:57,377  INFO [main] LogReports:19 - Passed : validateEndingTime :  Actual data : 06:45 AM Expected data : 06:45 AM
+2019-09-23 21:54:57,550  INFO [main] LogReports:19 - Passed : validateBoardingPoint :  Actual data : Y Junction Expected data : Y Junction
+2019-09-23 21:54:57,641  INFO [main] LogReports:19 - Passed : validateBordingPointAddress :  Actual data : INFRONT OF SAGAR HOTEL, PH No : 7353019999 , 04066746542 , 04066336542, Expected data : INFRONT OF SAGAR HOTEL, PH No : 7353019999 , 04066746542 , 04066336542,
+2019-09-23 21:55:09,061  INFO [main] LogReports:19 - Entered email and phoneno for corfirmation
+2019-09-23 22:07:47,975  INFO [main] LogReports:19 - Clicked fromplace
+2019-09-23 22:07:59,518  INFO [main] LogReports:19 - Clicked toplace
+2019-09-23 22:08:00,216  INFO [main] LogReports:19 - clicked date
+2019-09-23 22:08:12,697  INFO [main] LogReports:19 - Passed : validatingFromPlace :  Actual data : Hyderabad Expected data : Hyderabad
+2019-09-23 22:08:12,798  INFO [main] LogReports:19 - Passed : validatingToPlace :  Actual data : Bangalore Expected data : Bangalore
+2019-09-23 22:08:12,895  INFO [main] LogReports:19 - Passed : validatingdateofjourney :  Actual data : 26/09/2019 Expected data : 26/09/2019
+2019-09-23 22:08:22,121  INFO [main] LogReports:19 - Selected bus as per requirements
+2019-09-23 22:08:26,315  INFO [main] LogReports:19 - Completed seats booking
+2019-09-23 22:08:26,506  INFO [main] LogReports:19 - Passed : validatingBusName :  Actual data : Ullal Holidays Expected data : Ullal Holidays
+2019-09-23 22:08:26,710  INFO [main] LogReports:19 - Passed : validatingBusType :  Actual data : AC Sleeper (2 + 1) Expected data : AC Sleeper (2 + 1)
+2019-09-23 22:08:27,658  INFO [main] LogReports:19 - entered bording point
+2019-09-23 22:08:27,870  INFO [main] LogReports:19 - Passed : validatingSeatNumbers :  Actual data : L18, L17, L16 Expected data : L18, L17, L16
+2019-09-23 22:08:27,994  INFO [main] LogReports:19 - Passed : validatingTotalFare :  Actual data : 2,700 Expected data : 2,700
+2019-09-24 10:09:39,114  INFO [main] LogReports:19 - Clicked fromplace
+2019-09-24 10:09:50,610  INFO [main] LogReports:19 - Clicked toplace
+2019-09-24 10:09:51,348  INFO [main] LogReports:19 - clicked date
+2019-09-24 10:09:54,546  INFO [main] LogReports:19 - Passed : validatingFromPlace :  Actual data : Hyderabad Expected data : Hyderabad
+2019-09-24 10:09:54,657  INFO [main] LogReports:19 - Passed : validatingToPlace :  Actual data : Bangalore Expected data : Bangalore
+2019-09-24 10:09:54,747  INFO [main] LogReports:19 - Passed : validatingdateofjourney :  Actual data : 26/09/2019 Expected data : 26/09/2019
+2019-09-24 10:10:13,097  INFO [main] LogReports:19 - Selected bus as per requirements
+2019-09-24 10:10:16,185  INFO [main] LogReports:19 - Completed seats booking
+2019-09-24 10:10:16,327  INFO [main] LogReports:19 - Passed : validatingBusName :  Actual data : Ullal Holidays Expected data : Ullal Holidays
+2019-09-24 10:10:16,453  INFO [main] LogReports:19 - Passed : validatingBusType :  Actual data : AC Sleeper (2 + 1) Expected data : AC Sleeper (2 + 1)
+2019-09-24 10:10:17,225  INFO [main] LogReports:19 - entered bording point
+2019-09-24 10:10:17,367  INFO [main] LogReports:19 - Passed : validatingSeatNumbers :  Actual data : L18, L17, L16 Expected data : L18, L17, L16
+2019-09-24 10:10:17,473  INFO [main] LogReports:19 - failed : validatingTotalFare :  Actual data : 2,160 Expected data : 2,700
+2019-09-24 10:10:24,775  INFO [main] LogReports:19 - Passed : validatingStartingTime :  Actual data : 11:15 PM Expected data : 11:15 PM
+2019-09-24 10:10:27,880  INFO [main] LogReports:19 - Passed : validateEndingTime :  Actual data : 06:45 AM Expected data : 06:45 AM
+2019-09-24 10:10:27,972  INFO [main] LogReports:19 - Passed : validateBoardingPoint :  Actual data : Y Junction Expected data : Y Junction
+2019-09-24 10:10:28,036  INFO [main] LogReports:19 - Passed : validateBordingPointAddress :  Actual data : INFRONT OF SAGAR HOTEL, PH No : 7353019999 , 04066746542 , 04066336542, Expected data : INFRONT OF SAGAR HOTEL, PH No : 7353019999 , 04066746542 , 04066336542,
+2019-09-24 10:10:38,994  INFO [main] LogReports:19 - Entered email and phoneno for corfirmation
+2019-09-24 10:11:28,981  INFO [main] LogReports:19 - Entered all passenger details
+2019-09-24 10:11:29,154  INFO [main] LogReports:19 - Sucessfully automated test cases
+2019-09-24 10:16:35,386  INFO [main] LogReports:19 - Clicked fromplace
+2019-09-24 10:16:46,935  INFO [main] LogReports:19 - Clicked toplace
+2019-09-24 10:16:47,608  INFO [main] LogReports:19 - clicked date
+2019-09-24 10:16:51,234  INFO [main] LogReports:19 - Passed : validatingFromPlace :  Actual data : Hyderabad Expected data : Hyderabad
+2019-09-24 10:16:51,355  INFO [main] LogReports:19 - Passed : validatingToPlace :  Actual data : Bangalore Expected data : Bangalore
+2019-09-24 10:16:51,499  INFO [main] LogReports:19 - Passed : validatingdateofjourney :  Actual data : 26/09/2019 Expected data : 26/09/2019
+2019-09-24 10:17:04,891  INFO [main] LogReports:19 - Selected bus as per requirements
+2019-09-24 10:17:09,355  INFO [main] LogReports:19 - Completed seats booking
+2019-09-24 10:17:09,591  INFO [main] LogReports:19 - Passed : validatingBusName :  Actual data : Ullal Holidays Expected data : Ullal Holidays
+2019-09-24 10:17:09,723  INFO [main] LogReports:19 - Passed : validatingBusType :  Actual data : AC Sleeper (2 + 1) Expected data : AC Sleeper (2 + 1)
+2019-09-24 10:17:10,628  INFO [main] LogReports:19 - entered bording point
+2019-09-24 10:17:10,808  INFO [main] LogReports:19 - Passed : validatingSeatNumbers :  Actual data : L18, L17, L16 Expected data : L18, L17, L16
+2019-09-24 10:17:10,924  INFO [main] LogReports:19 - failed : validatingTotalFare :  Actual data : 2,430 Expected data : 2,700
+2019-09-24 10:17:18,197  INFO [main] LogReports:19 - Passed : validatingStartingTime :  Actual data : 11:15 PM Expected data : 11:15 PM
+2019-09-24 10:17:21,289  INFO [main] LogReports:19 - Passed : validateEndingTime :  Actual data : 06:45 AM Expected data : 06:45 AM
+2019-09-24 10:17:21,389  INFO [main] LogReports:19 - Passed : validateBoardingPoint :  Actual data : Y Junction Expected data : Y Junction
+2019-09-24 10:17:21,467  INFO [main] LogReports:19 - Passed : validateBordingPointAddress :  Actual data : INFRONT OF SAGAR HOTEL, PH No : 7353019999 , 04066746542 , 04066336542, Expected data : INFRONT OF SAGAR HOTEL, PH No : 7353019999 , 04066746542 , 04066336542,
+2019-09-24 10:17:32,483  INFO [main] LogReports:19 - Entered email and phoneno for corfirmation
+2019-09-24 10:18:22,858  INFO [main] LogReports:19 - Entered all passenger details
+2019-09-24 10:18:23,026  INFO [main] LogReports:19 - Sucessfully automated test cases
+2019-09-24 11:13:27,387  INFO [main] LogReports:19 - Clicked fromplace
+2019-09-24 11:13:38,851  INFO [main] LogReports:19 - Clicked toplace
+2019-09-24 11:13:39,552  INFO [main] LogReports:19 - clicked date
+2019-09-24 11:13:48,484  INFO [main] LogReports:19 - Passed : validatingFromPlace :  Actual data : Hyderabad Expected data : Hyderabad
+2019-09-24 11:13:48,581  INFO [main] LogReports:19 - Passed : validatingToPlace :  Actual data : Bangalore Expected data : Bangalore
+2019-09-24 11:13:48,689  INFO [main] LogReports:19 - Passed : validatingdateofjourney :  Actual data : 26/09/2019 Expected data : 26/09/2019
+2019-09-24 11:13:56,795  INFO [main] LogReports:19 - Selected bus as per requirements
+2019-09-24 11:14:00,530  INFO [main] LogReports:19 - Completed seats booking
+2019-09-24 11:14:00,681  INFO [main] LogReports:19 - Passed : validatingBusName :  Actual data : Ullal Holidays Expected data : Ullal Holidays
+2019-09-24 11:14:00,812  INFO [main] LogReports:19 - Passed : validatingBusType :  Actual data : AC Sleeper (2 + 1) Expected data : AC Sleeper (2 + 1)
+2019-09-24 11:14:01,466  INFO [main] LogReports:19 - entered bording point
+2019-09-24 11:14:01,627  INFO [main] LogReports:19 - Passed : validatingSeatNumbers :  Actual data : L18, L17, L16 Expected data : L18, L17, L16
+2019-09-24 11:14:01,726  INFO [main] LogReports:19 - failed : validatingTotalFare :  Actual data : 2,160 Expected data : 2,700
+2019-09-24 11:14:09,752  INFO [main] LogReports:19 - Passed : validatingStartingTime :  Actual data : 11:15 PM Expected data : 11:15 PM
+2019-09-24 11:14:12,841  INFO [main] LogReports:19 - Passed : validateEndingTime :  Actual data : 06:45 AM Expected data : 06:45 AM
+2019-09-24 11:14:12,936  INFO [main] LogReports:19 - Passed : validateBoardingPoint :  Actual data : Y Junction Expected data : Y Junction
+2019-09-24 11:14:13,007  INFO [main] LogReports:19 - Passed : validateBordingPointAddress :  Actual data : INFRONT OF SAGAR HOTEL, PH No : 7353019999 , 04066746542 , 04066336542, Expected data : INFRONT OF SAGAR HOTEL, PH No : 7353019999 , 04066746542 , 04066336542,
+2019-09-24 11:14:23,994  INFO [main] LogReports:19 - Entered email and phoneno for corfirmation
+2019-09-24 11:15:15,581  INFO [main] LogReports:19 - Entered all passenger details
+2019-09-24 11:15:16,243  INFO [main] LogReports:19 - Sucessfully automated test cases
+2019-09-24 11:20:28,006  INFO [main] LogReports:19 - Clicked fromplace
+2019-09-24 11:20:39,578  INFO [main] LogReports:19 - Clicked toplace
+2019-09-24 11:20:40,393  INFO [main] LogReports:19 - clicked date
+2019-09-24 11:20:44,699  INFO [main] LogReports:19 - failed : validatingFromPlace :  Actual data : Delhi Expected data : Hyderabad
+2019-09-24 11:20:44,845  INFO [main] LogReports:19 - Passed : validatingToPlace :  Actual data : Bangalore Expected data : Bangalore
+2019-09-24 11:20:45,004  INFO [main] LogReports:19 - Passed : validatingdateofjourney :  Actual data : 26/09/2019 Expected data : 26/09/2019
+2019-09-24 11:23:49,730  INFO [main] LogReports:19 - Clicked fromplace
+2019-09-24 11:24:01,247  INFO [main] LogReports:19 - Clicked toplace
+2019-09-24 11:24:02,055  INFO [main] LogReports:19 - clicked date
+2019-09-24 11:24:15,679  INFO [main] LogReports:19 - Passed : validatingFromPlace :  Actual data : Hyderabad Expected data : Hyderabad
+2019-09-24 11:24:15,795  INFO [main] LogReports:19 - Passed : validatingToPlace :  Actual data : Bangalore Expected data : Bangalore
+2019-09-24 11:24:15,889  INFO [main] LogReports:19 - Passed : validatingdateofjourney :  Actual data : 26/09/2019 Expected data : 26/09/2019
+2019-09-24 11:24:23,671  INFO [main] LogReports:19 - Selected bus as per requirements
+2019-09-24 11:24:27,041  INFO [main] LogReports:19 - Completed seats booking
+2019-09-24 11:24:27,219  INFO [main] LogReports:19 - Passed : validatingBusName :  Actual data : Ullal Holidays Expected data : Ullal Holidays
+2019-09-24 11:24:27,366  INFO [main] LogReports:19 - Passed : validatingBusType :  Actual data : AC Sleeper (2 + 1) Expected data : AC Sleeper (2 + 1)
+2019-09-24 11:24:28,183  INFO [main] LogReports:19 - entered bording point
+2019-09-24 11:24:28,360  INFO [main] LogReports:19 - Passed : validatingSeatNumbers :  Actual data : L18, L17, L16 Expected data : L18, L17, L16
+2019-09-24 11:24:28,445  INFO [main] LogReports:19 - failed : validatingTotalFare :  Actual data : 2,160 Expected data : 2,700
+2019-09-24 11:24:36,052  INFO [main] LogReports:19 - Passed : validatingStartingTime :  Actual data : 11:15 PM Expected data : 11:15 PM
+2019-09-24 11:24:39,155  INFO [main] LogReports:19 - Passed : validateEndingTime :  Actual data : 06:45 AM Expected data : 06:45 AM
+2019-09-24 11:24:39,251  INFO [main] LogReports:19 - Passed : validateBoardingPoint :  Actual data : Y Junction Expected data : Y Junction
+2019-09-24 11:24:39,321  INFO [main] LogReports:19 - Passed : validateBordingPointAddress :  Actual data : INFRONT OF SAGAR HOTEL, PH No : 7353019999 , 04066746542 , 04066336542, Expected data : INFRONT OF SAGAR HOTEL, PH No : 7353019999 , 04066746542 , 04066336542,
+2019-09-24 11:24:50,267  INFO [main] LogReports:19 - Entered email and phoneno for corfirmation
+2019-09-24 11:25:40,878  INFO [main] LogReports:19 - Entered all passenger details
+2019-09-24 11:25:41,196  INFO [main] LogReports:19 - Sucessfully automated test cases
+2019-09-24 11:28:21,745  INFO [main] LogReports:19 - Clicked fromplace
+2019-09-24 11:28:33,345  INFO [main] LogReports:19 - Clicked toplace
+2019-09-24 11:28:34,143  INFO [main] LogReports:19 - clicked date
+2019-09-24 11:28:45,174  INFO [main] LogReports:19 - Passed : validatingFromPlace :  Actual data : Hyderabad Expected data : Hyderabad
+2019-09-24 11:28:45,312  INFO [main] LogReports:19 - Passed : validatingToPlace :  Actual data : Bangalore Expected data : Bangalore
+2019-09-24 11:28:45,425  INFO [main] LogReports:19 - Passed : validatingdateofjourney :  Actual data : 26/09/2019 Expected data : 26/09/2019
+2019-09-24 11:28:54,187  INFO [main] LogReports:19 - Selected bus as per requirements
+2019-09-24 11:28:58,127  INFO [main] LogReports:19 - Completed seats booking
+2019-09-24 11:28:58,302  INFO [main] LogReports:19 - Passed : validatingBusName :  Actual data : Ullal Holidays Expected data : Ullal Holidays
+2019-09-24 11:28:58,461  INFO [main] LogReports:19 - Passed : validatingBusType :  Actual data : AC Sleeper (2 + 1) Expected data : AC Sleeper (2 + 1)
+2019-09-24 11:28:59,226  INFO [main] LogReports:19 - entered bording point
+2019-09-24 11:28:59,460  INFO [main] LogReports:19 - Passed : validatingSeatNumbers :  Actual data : L18, L17, L16 Expected data : L18, L17, L16
+2019-09-24 11:28:59,566  INFO [main] LogReports:19 - Passed : validatingTotalFare :  Actual data : 2,700 Expected data : 2,700
+2019-09-24 11:29:07,228  INFO [main] LogReports:19 - Passed : validatingStartingTime :  Actual data : 11:15 PM Expected data : 11:15 PM
+2019-09-24 11:29:10,312  INFO [main] LogReports:19 - Passed : validateEndingTime :  Actual data : 06:45 AM Expected data : 06:45 AM
+2019-09-24 11:29:10,382  INFO [main] LogReports:19 - Passed : validateBoardingPoint :  Actual data : Y Junction Expected data : Y Junction
+2019-09-24 11:29:10,457  INFO [main] LogReports:19 - Passed : validateBordingPointAddress :  Actual data : INFRONT OF SAGAR HOTEL, PH No : 7353019999 , 04066746542 , 04066336542, Expected data : INFRONT OF SAGAR HOTEL, PH No : 7353019999 , 04066746542 , 04066336542,
+2019-09-24 11:29:21,418  INFO [main] LogReports:19 - Entered email and phoneno for corfirmation
+2019-09-24 11:30:12,264  INFO [main] LogReports:19 - Entered all passenger details
+2019-09-24 11:30:12,613  INFO [main] LogReports:19 - Sucessfully automated test cases
+2019-09-24 12:55:36,278  INFO [main] LogReports:19 - Clicked fromplace
+2019-09-24 12:55:42,846  INFO [main] LogReports:19 - Clicked toplace
+2019-09-24 12:55:43,599  INFO [main] LogReports:19 - clicked date
+2019-09-24 12:55:48,322  INFO [main] LogReports:19 - failed : validatingFromPlace :  Actual data : Hyderabad Expected data : null
+2019-09-24 12:55:48,458  INFO [main] LogReports:19 - failed : validatingToPlace :  Actual data : Bangalore Expected data : null
+2019-09-24 12:55:48,578  INFO [main] LogReports:19 - failed : validatingdateofjourney :  Actual data : 26/09/2019 Expected data : null
+2019-09-24 12:56:06,114  INFO [main] LogReports:19 - Selected bus as per requirements
+2019-09-24 12:56:10,565  INFO [main] LogReports:19 - Completed seats booking
+2019-09-24 12:56:10,808  INFO [main] LogReports:19 - failed : validatingBusName :  Actual data : Ullal Holidays Expected data : null
+2019-09-24 12:56:10,996  INFO [main] LogReports:19 - failed : validatingBusType :  Actual data : AC Sleeper (2 + 1) Expected data : null
+2019-09-24 12:56:12,096  INFO [main] LogReports:19 - entered bording point
+2019-09-24 12:56:12,262  INFO [main] LogReports:19 - failed : validatingSeatNumbers :  Actual data : L18, L17, L16 Expected data : null
+2019-09-24 12:56:12,442  INFO [main] LogReports:19 - failed : validatingTotalFare :  Actual data : 2,700 Expected data : null
+2019-09-24 12:56:20,807  INFO [main] LogReports:19 - failed : validatingStartingTime :  Actual data : 11:15 PM Expected data : null
+2019-09-24 12:56:23,950  INFO [main] LogReports:19 - failed : validateEndingTime :  Actual data : 06:45 AM Expected data : null
+2019-09-24 12:56:24,147  INFO [main] LogReports:19 - failed : validateBoardingPoint :  Actual data : Y Junction Expected data : null
+2019-09-24 12:56:24,231  INFO [main] LogReports:19 - failed : validateBordingPointAddress :  Actual data : INFRONT OF SAGAR HOTEL, PH No : 7353019999 , 04066746542 , 04066336542, Expected data : null
+2019-09-24 12:56:25,558  INFO [main] LogReports:19 - Entered email and phoneno for corfirmation
+2019-09-24 12:56:34,772  INFO [main] LogReports:19 - Entered all passenger details
+2019-09-24 12:56:35,149  INFO [main] LogReports:19 - Sucessfully automated test cases
+2019-09-24 13:44:40,543  INFO [main] LogReports:19 - Clicked fromplace
+2019-09-24 13:44:47,049  INFO [main] LogReports:19 - Clicked toplace
+2019-09-24 13:44:47,819  INFO [main] LogReports:19 - clicked date
+2019-09-24 13:44:56,984  INFO [main] LogReports:19 - failed : validatingFromPlace :  Actual data : Hyderabad Expected data : null
+2019-09-24 13:44:57,155  INFO [main] LogReports:19 - failed : validatingToPlace :  Actual data : Bangalore Expected data : null
+2019-09-24 13:44:57,283  INFO [main] LogReports:19 - failed : validatingdateofjourney :  Actual data : 26/09/2019 Expected data : null
+2019-09-24 13:45:01,350  INFO [main] LogReports:19 - Selected bus as per requirements
+2019-09-24 13:45:05,460  INFO [main] LogReports:19 - Completed seats booking
+2019-09-24 13:45:05,669  INFO [main] LogReports:19 - failed : validatingBusName :  Actual data : Ullal Holidays Expected data : null
+2019-09-24 13:45:05,809  INFO [main] LogReports:19 - failed : validatingBusType :  Actual data : AC Sleeper (2 + 1) Expected data : null
+2019-09-24 13:45:06,629  INFO [main] LogReports:19 - entered bording point
+2019-09-24 13:45:06,827  INFO [main] LogReports:19 - failed : validatingSeatNumbers :  Actual data : L18, L17, L16 Expected data : null
+2019-09-24 13:45:06,987  INFO [main] LogReports:19 - failed : validatingTotalFare :  Actual data : 2,700 Expected data : null
+2019-09-24 13:45:15,828  INFO [main] LogReports:19 - failed : validatingStartingTime :  Actual data : 11:15 PM Expected data : null
+2019-09-24 13:45:18,909  INFO [main] LogReports:19 - failed : validateEndingTime :  Actual data : 06:45 AM Expected data : null
+2019-09-24 13:45:18,979  INFO [main] LogReports:19 - failed : validateBoardingPoint :  Actual data : Y Junction Expected data : null
+2019-09-24 13:45:19,083  INFO [main] LogReports:19 - failed : validateBordingPointAddress :  Actual data : INFRONT OF SAGAR HOTEL, PH No : 7353019999 , 04066746542 , 04066336542, Expected data : null
+2019-09-24 13:45:20,207  INFO [main] LogReports:19 - Entered email and phoneno for corfirmation
+2019-09-24 13:45:26,837  INFO [main] LogReports:19 - Entered all passenger details
+2019-09-24 13:45:27,045  INFO [main] LogReports:19 - Sucessfully automated test cases
+2019-09-24 13:51:36,603  INFO [main] LogReports:19 - Clicked fromplace
+2019-09-24 13:51:43,186  INFO [main] LogReports:19 - Clicked toplace
+2019-09-24 13:51:44,087  INFO [main] LogReports:19 - clicked date
+2019-09-24 13:52:09,547  INFO [main] LogReports:19 - Selected bus as per requirements
+2019-09-24 13:52:14,708  INFO [main] LogReports:19 - Completed seats booking
+2019-09-24 13:55:11,251  INFO [main] LogReports:19 - Clicked fromplace
+2019-09-24 13:55:17,870  INFO [main] LogReports:19 - Clicked toplace
+2019-09-24 13:55:18,776  INFO [main] LogReports:19 - clicked date
+2019-09-24 14:03:20,827  INFO [main] LogReports:19 - Clicked fromplace
+2019-09-24 14:03:27,358  INFO [main] LogReports:19 - Clicked toplace
+2019-09-24 14:03:28,088  INFO [main] LogReports:19 - clicked date
+2019-09-24 14:03:38,474  INFO [main] LogReports:19 - failed : validatingFromPlace :  Actual data : Hyderabad Expected data : null
+2019-09-24 14:03:38,632  INFO [main] LogReports:19 - failed : validatingToPlace :  Actual data : Bangalore Expected data : null
+2019-09-24 14:03:38,768  INFO [main] LogReports:19 - failed : validatingdateofjourney :  Actual data : 26/09/2019 Expected data : null
+2019-09-24 14:03:42,759  INFO [main] LogReports:19 - Selected bus as per requirements
+2019-09-24 14:03:47,280  INFO [main] LogReports:19 - Completed seats booking
+2019-09-24 14:13:43,140  INFO [main] LogReports:19 - Clicked fromplace
+2019-09-24 14:13:49,753  INFO [main] LogReports:19 - Clicked toplace
+2019-09-24 14:13:50,564  INFO [main] LogReports:19 - clicked date
+2019-09-24 14:14:00,178  INFO [main] LogReports:19 - Passed : validatingFromPlace :  Actual data : Hyderabad Expected data : Hyderabad
+2019-09-24 14:14:00,329  INFO [main] LogReports:19 - Passed : validatingToPlace :  Actual data : Bangalore Expected data : Bangalore
+2019-09-24 14:14:00,429  INFO [main] LogReports:19 - Passed : validatingdateofjourney :  Actual data : 26/09/2019 Expected data : 26/09/2019
+2019-09-24 14:14:04,835  INFO [main] LogReports:19 - Selected bus as per requirements
+2019-09-24 14:14:09,857  INFO [main] LogReports:19 - Completed seats booking
+2019-09-24 14:14:10,122  INFO [main] LogReports:19 - Passed : validatingBusName :  Actual data : Ullal Holidays Expected data : Ullal Holidays
+2019-09-24 14:14:10,370  INFO [main] LogReports:19 - Passed : validatingBusType :  Actual data : AC Sleeper (2 + 1) Expected data : AC Sleeper (2 + 1)
+2019-09-24 14:14:11,586  INFO [main] LogReports:19 - entered bording point
+2019-09-24 14:14:11,814  INFO [main] LogReports:19 - Passed : validatingSeatNumbers :  Actual data : L18, L17, L16 Expected data : L18, L17, L16
+2019-09-24 14:14:11,978  INFO [main] LogReports:19 - Passed : validatingTotalFare :  Actual data : 2,700 Expected data : 2,700
+2019-09-24 14:16:10,544  INFO [main] LogReports:19 - Clicked fromplace
+2019-09-24 14:16:17,260  INFO [main] LogReports:19 - Clicked toplace
+2019-09-24 14:16:18,023  INFO [main] LogReports:19 - clicked date
+2019-09-24 14:16:28,500  INFO [main] LogReports:19 - Passed : validatingFromPlace :  Actual data : Hyderabad Expected data : Hyderabad
+2019-09-24 14:16:28,680  INFO [main] LogReports:19 - Passed : validatingToPlace :  Actual data : Bangalore Expected data : Bangalore
+2019-09-24 14:16:28,788  INFO [main] LogReports:19 - Passed : validatingdateofjourney :  Actual data : 26/09/2019 Expected data : 26/09/2019
+2019-09-24 14:16:32,683  INFO [main] LogReports:19 - Selected bus as per requirements
+2019-09-24 14:16:37,228  INFO [main] LogReports:19 - Completed seats booking
+2019-09-24 14:16:37,496  INFO [main] LogReports:19 - Passed : validatingBusName :  Actual data : Ullal Holidays Expected data : Ullal Holidays
+2019-09-24 14:16:37,716  INFO [main] LogReports:19 - Passed : validatingBusType :  Actual data : AC Sleeper (2 + 1) Expected data : AC Sleeper (2 + 1)
+2019-09-24 14:16:38,835  INFO [main] LogReports:19 - entered bording point
+2019-09-24 14:16:39,039  INFO [main] LogReports:19 - Passed : validatingSeatNumbers :  Actual data : L18, L17, L16 Expected data : L18, L17, L16
+2019-09-24 14:16:39,167  INFO [main] LogReports:19 - Passed : validatingTotalFare :  Actual data : 2,700 Expected data : 2,700
+2019-09-24 14:16:47,530  INFO [main] LogReports:19 - Passed : validatingStartingTime :  Actual data : 11:15 PM Expected data : 11:15 PM
+2019-09-24 14:16:50,629  INFO [main] LogReports:19 - Passed : validateEndingTime :  Actual data : 06:45 AM Expected data : 06:45 AM
+2019-09-24 14:16:50,765  INFO [main] LogReports:19 - Passed : validateBoardingPoint :  Actual data : Y Junction Expected data : Y Junction
+2019-09-24 14:16:50,853  INFO [main] LogReports:19 - Passed : validateBordingPointAddress :  Actual data : INFRONT OF SAGAR HOTEL, PH No : 7353019999 , 04066746542 , 04066336542, Expected data : INFRONT OF SAGAR HOTEL, PH No : 7353019999 , 04066746542 , 04066336542,
+2019-09-24 14:16:51,969  INFO [main] LogReports:19 - Entered email and phoneno for corfirmation
+2019-09-24 14:16:59,276  INFO [main] LogReports:19 - Entered all passenger details
+2019-09-24 14:16:59,503  INFO [main] LogReports:19 - Sucessfully automated test cases

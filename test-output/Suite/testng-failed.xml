@@ -5,12 +5,9 @@
     <classes>
       <class name="com.yatra.testscripts.BusBooking">
         <methods>
-          <include name="selectingBus"/>
           <include name="fillingTravellerDetails"/>
-          <include name="signing" invocation-numbers="0"/>
           <include name="closeBrowser"/>
           <include name="initializeBrowser"/>
-          <include name="bookingBus"/>
         </methods>
       </class> <!-- com.yatra.testscripts.BusBooking -->
     </classes>

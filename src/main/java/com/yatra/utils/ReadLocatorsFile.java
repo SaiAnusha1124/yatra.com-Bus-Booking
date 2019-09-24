@@ -17,17 +17,16 @@ public class ReadLocatorsFile {
 		try {
 			reader = new FileReader(file);
 		} catch (FileNotFoundException e) {
-			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
 		try {
 			properties.load(reader);
 		} catch (IOException e) {
-			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
 		return properties;
 	}
+
 	public static String getData(String data) throws IOException {
 		String filedata = properties.getProperty(data);
 		return filedata;
